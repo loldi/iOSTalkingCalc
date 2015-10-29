@@ -5,4 +5,6 @@ Amazing, revolutionary talking calculator by Andrew Genualdi
 
 
 
-[![IMAGE ALT TEXT HERE](http://i.imgur.com/LsFoRDN.png)](https://www.youtube.com/watch?v=Yxr1OUxo99k)
+[![video demo](http://i.imgur.com/LsFoRDN.png)](https://www.youtube.com/watch?v=Yxr1OUxo99k)
+
+![app icon](http://i.imgur.com/pSKbLlB.png)
